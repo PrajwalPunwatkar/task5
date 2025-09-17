@@ -1,0 +1,5 @@
+Laptop,85000
+Mobile,abc        <-- invalid price
+Tablet,1500
+Headphones        <-- missing price
+TV,30000
